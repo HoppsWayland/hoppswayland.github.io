@@ -3,7 +3,7 @@ let rotation = [90, 900, 250];  // out mid in
 function preload(){
   outerRing = loadImage("/outerring.png");
   middleRing = loadImage("/middlering.png");
-  innerDisk = loadImage("/innercircle.png");
+  innerDisk = loadImage("/innercircle.png"); // plz work
 }
 
 function setup() {
